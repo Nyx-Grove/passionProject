@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Italianno', cursive;
+    text-align: center;
+}
+img{
+    height: 270px;
+}
+
+.carousel-inner{
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    
+  
+}
+
+h2{
+    font-size: 350%;
+}
+
+
+.button{
+
+    text-align: right;
+    
+ }
